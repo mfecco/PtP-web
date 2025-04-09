@@ -22,3 +22,6 @@ Bugs 4-8-25:
   - Additional empty button tiles when not full screen
   - Player money does not retain precision or 2 digits after . when spending money in store after first year update
   - Player money goes negative while buying in store.
+
+Build 4-9-25:
+  - Update aspect from 16:10 to 16:9
